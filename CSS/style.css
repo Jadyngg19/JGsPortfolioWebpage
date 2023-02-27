@@ -40,12 +40,19 @@ input[type=checkbox] {
     display: none;
 }
 
-.mainimg {
-    width:60vw;
+.main-img {
+    width:50vw;
     length:auto;
     display: block;
     margin-right: auto;
     margin-left: auto;
+    border: dashed 4.5px;
+    border-radius: 25px; 
+    border-color: rgb(124, 0, 146);
+}
+
+.main-section {
+background-color: plum;
 }
 
 @media (max-width: 768px) {
