@@ -40,6 +40,14 @@ input[type=checkbox] {
     display: none;
 }
 
+.mainimg {
+    width:60vw;
+    length:auto;
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+}
+
 @media (max-width: 768px) {
 
     .img {
@@ -84,3 +92,4 @@ input[type=checkbox] {
         background-color: rgb(0, 204, 245);
     }
 
+}
