@@ -8,8 +8,8 @@
 .nav-links a {
     color: #020000;
     text-decoration: none;
-    display: block;
-    align-items: end;
+    font-family: cursive;
+    font-size: larger;
     
 }
 
