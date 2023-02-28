@@ -8,7 +8,7 @@
 .nav-links a {
     color: #020000;
     text-decoration: none;
-    font-family: monospace;
+    font-family: mo;
     font-size: larger;
     
 }
@@ -79,6 +79,7 @@ text-align: center;
         left: 0;
         text-align: center;
         padding: 16px 0;
+        z-index:999;
     }
 
     .menu li:hover {
@@ -96,7 +97,11 @@ text-align: center;
     }
 
     .hamburger {
-        display: block;
+        display:block;
+    }
+
+    .navbar {
+        justify-content: right;
     }
 
     .dropdown {
