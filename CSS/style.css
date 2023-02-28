@@ -55,6 +55,16 @@ input[type=checkbox] {
 background-color: plum;
 }
 
+.about-me{
+font-family: 'Courier New', Courier, monospace;
+font-size: medium;
+width:60vw;
+display: block;
+margin-right: auto;
+margin-left: auto;
+text-align: center;
+}
+
 @media (max-width: 768px) {
 
     .img {
