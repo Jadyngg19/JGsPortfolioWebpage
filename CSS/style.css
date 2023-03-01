@@ -68,7 +68,21 @@ text-align: center;
 .photo-grid {
     display: grid;
     grid-template-columns: repeat(2, 1fr);
-    grid-gap: 10px;
+    grid-template-rows: repeat(2, 1fr);
+  }
+  
+  .photo-item {
+    position: relative;
+    height: 0;
+    padding-bottom: 100%;
+  }
+  
+  .photo-item img {
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: auto;
   }
 
 @media (max-width: 768px) {
