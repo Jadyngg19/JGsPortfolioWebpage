@@ -57,7 +57,7 @@ background-color: plum;
 
 .about-me{
 font-family: monospace;
-font-size: medium;
+font-size: 15px;
 width:60vw;
 display: block;
 margin-right: auto;
@@ -80,6 +80,15 @@ h2 {
     place-items: center;
   }
   
+  .project-headings{
+    font-family: monospace;
+    font-size: 20px;
+  }
+
+  .project-paragraphs{
+    font-family: monospace;
+    font-size:15px;
+  }
 
 @media (max-width: 768px) {
 
