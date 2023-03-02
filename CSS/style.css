@@ -118,39 +118,43 @@ h2 {
   .resume-header{
     font-size: 40px;
     font-family: monospace;
-    text-align: left;
+    text-align: center;
+    
   }
 
   .resume-content-headers{
     font-size: 25px;
     font-family: monospace;
     font-weight: 100;
+    list-style: none;
   }
 
   .resume-experience-list{
     font-size: 15px;
     font-family: monospace;
     font-weight: 100;
-    list-style: square;
+    list-style: none;
   }
 
   .resume-experience-inner-list{
     font-size: 15px;
     font-family: monospace;
     font-weight: 100;
+    list-style: none;
   }
 
   .resume-education-list{
     font-size: 15px;
     font-family: monospace;
     font-weight: 100;
-    list-style: square;
+    list-style: none;
   }
 
   .resume-education-inner-list{
     font-size: 15px;
     font-family: monospace;
     font-weight: 100;
+    list-style: none;
   }
 
 @media (max-width: 768px) {
