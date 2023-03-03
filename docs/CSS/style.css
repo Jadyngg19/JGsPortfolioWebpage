@@ -72,7 +72,6 @@ h2 {
     text-align: center;
     font-family: monospace;
     font-size: 40px;
-    font-weight: 100;
   }
 
   .projects-main-section{
@@ -115,6 +114,18 @@ h2 {
     list-style: none;
   }
 
+  .picture-of-me{
+    display: block;
+    width: 200px;
+    height: 200px;
+    margin-left: auto;
+    margin-right: auto;
+    border-color:rgb(124, 0, 146);
+    border-style: dashed;
+    border-width: 4px;
+    border-radius: 45px;
+  }
+
   .resume-header{
     font-size: 40px;
     font-family: monospace;
@@ -124,15 +135,13 @@ h2 {
 
   .resume-content-headers{
     font-size: 25px;
-    font-family: monospace;
-    font-weight: 100;
+    font-family: monospace; 
     list-style: none;
   }
 
   .resume-experience-list{
     font-size: 15px;
     font-family: monospace;
-    font-weight: 100;
     list-style: none;
   }
 
@@ -146,7 +155,6 @@ h2 {
   .resume-education-list{
     font-size: 15px;
     font-family: monospace;
-    font-weight: 100;
     list-style: none;
   }
 
