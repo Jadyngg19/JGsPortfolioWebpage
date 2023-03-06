@@ -10,3 +10,4 @@ I created a webpage for my own portfolio, which will be used to advocate myself 
 ![Screensot of the top half of the resume page](./Images/TopHalfofResumeWebpage.png)
 ![Screensot of the bottom half of the resume page](./Images/BottomHalfofResumePage.png)
 ## Link
+[Jadyn Gomez's Portfolio](https://jadyngg19.github.io/JGsPortfolioWebpage/)
