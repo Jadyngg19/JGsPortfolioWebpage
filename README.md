@@ -7,7 +7,7 @@ I created a webpage for my own portfolio, which will be used to advocate myself 
 ![Screensot of the bottom half of the about me page](./docs/Images/BottomHalfofAboutMePage.png)
 ![Screensot of the projects page](./docs/Images/ProjectPage.png)
 ![Screensot of the contact page](./docs/Images/ContactMePage.png)
-![Screensot of the top half of the resume page](./docs/Images/TopHalfofResumeWebpage.png)
+![Screensot of the top half of the resume page](./docs/Images/TopHalfofResumeWePage.png)
 ![Screensot of the bottom half of the resume page](./docs/Images/BottomHalfofResumePage.png)
 ## Link
 [Jadyn Gomez's Portfolio](https://jadyngg19.github.io/JGsPortfolioWebpage/)
