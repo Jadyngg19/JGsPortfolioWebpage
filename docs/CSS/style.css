@@ -44,7 +44,7 @@ input[type=checkbox] {
 
 .main-img {
     width: 30px;
-    length:auto;
+    height:30px;
     display: block;
     margin-right: auto;
     margin-left: auto;
