@@ -43,8 +43,8 @@ input[type=checkbox] {
 }
 
 .main-img {
-    width:40vw;
-    height:auto;
+    width: 30px;
+    length:auto;
     display: block;
     margin-right: auto;
     margin-left: auto;
